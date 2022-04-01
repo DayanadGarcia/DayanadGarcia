@@ -5,7 +5,7 @@
 
 - 🌱 Full stack developer student at Trybe
 
-- 👨‍💻 All of my projects are available at [dayanadgarcia.github.io](https://dayanadgarcia.github.io)
+- 👨‍💻 More information about me are available at [dayanadgarcia.github.io](https://dayanadgarcia.github.io)
 
 - :books: I regularly post my achievements and learning on my linkedIn account [linkedin.com/in/dayanadias/](https://www.linkedin.com/in/dayanadias/)
 
