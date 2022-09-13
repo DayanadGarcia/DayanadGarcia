@@ -1,22 +1,22 @@
-## Olá! Eu sou a Dayana Dias
+<h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px" height="28px"> Hi, I'm Dayana Madueke!!</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DayanadGarcia&color=green" alt="Profile views" /> </p>
+<img align="right" alt="gif" src="https://user-images.githubusercontent.com/72935091/189799987-d6da9c57-5a53-44d8-8bc7-bab778ff57cc.png" width="400px" />
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px" height="28px">, I'm Dayana Dias</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DayanadGarcia&color=yellow" alt="Profile views" /> </p>
+<br />
 
-- 🌱 Full stack developer student at Trybe
-
-- 👨‍💻 More information about me are available at [dayanadgarcia.github.io](https://dayanadgarcia.github.io)
+- 🌱 Software developer - Tryber
 
 - :books: I regularly post my achievements and learning on my linkedIn account [linkedin.com/in/dayanadias/](https://www.linkedin.com/in/dayanadias/)
 
-- 💬 Ask me about **JavaScript, HTML, CSS, ReactJs, Jest**
+- 💬 Ask me about:  **Nodejs, Expressjs, MySql, Sequelize, MongoDB, TypeScript, Html, Css, Javascript**
 
 - :telescope: I'm looking for knowledge to evolve in my developer career
 
 <br><br>
 
-## 🛠 &nbsp;Tech Stack
-<div>
+## 🛠 &nbsp;Stacks
+<div width="700px">
+
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind-css" />
@@ -29,7 +29,6 @@
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" />
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" />
-
 
 </div>
 
