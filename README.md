@@ -12,6 +12,8 @@
 
 - :telescope: I'm looking for knowledge to evolve in my developer career
 
+- 🗃 Current learning: Python and C#/.NET
+
 <br><br>
 
 ## 🛠 &nbsp;Stacks
@@ -52,9 +54,5 @@
 <a href="https://www.linkedin.com/in/dayanadias/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-dayanadias-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://www.instagram.com/daydiasgarcia/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-dayanadias-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
 </p>
 
-<img width="430em" src="https://github-readme-twitter-gazf.vercel.app/api?id=Daydiasgarcia&layout=wide&show_reply=off&show_retweet=off" />
