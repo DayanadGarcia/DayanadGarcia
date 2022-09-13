@@ -1,6 +1,6 @@
 <h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px" height="28px"> Hi, I'm Dayana Madueke!!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DayanadGarcia&color=green" alt="Profile views" /> </p>
-<img align="right" alt="gif" src="https://user-images.githubusercontent.com/72935091/189799987-d6da9c57-5a53-44d8-8bc7-bab778ff57cc.png" width="400px" />
+<img align="right" alt="gif" src="https://user-images.githubusercontent.com/72935091/189799987-d6da9c57-5a53-44d8-8bc7-bab778ff57cc.png" width="250px" />
 
 <br />
 
