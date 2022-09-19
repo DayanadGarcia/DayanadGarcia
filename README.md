@@ -45,11 +45,11 @@
 
 </div>
 
-<br><br>
+<br /><br />
 
-## 👩‍🦱 Social Links
+<h3 align="center">👩‍🦱 Social Links</h3>
 
-<p align="left" style="background:yellow">
+<p align="center" style="background:yellow">
 <a href="https://twitter.com/Daydiasgarcia" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-dayanadias-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
@@ -57,4 +57,11 @@
   <img align="center" src="https://img.shields.io/badge/-dayanadias-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 </p>
+
+<br/>
+
+<div align="center" width="200px">
+:headphones: <b>Ouça a Trybe-Fi: a rádio lofi da Trybe!</b> <br /><br />
+<a href="https://www.youtube.com/watch?v=anypqg9428Y" target="_blank"><img width="200px" src="https://img.youtube.com/vi/anypqg9428Y/0.jpg" alt="Trybe-Fi"></a><br />
+</div>
 
