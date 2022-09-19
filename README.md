@@ -65,3 +65,11 @@
 <a href="https://www.youtube.com/watch?v=anypqg9428Y" target="_blank"><img width="200px" src="https://img.youtube.com/vi/anypqg9428Y/0.jpg" alt="Trybe-Fi"></a><br />
 </div>
 
+--------
+<h3 align="center"> Estastísticas:</h3>
+<p align="center" width="500px">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DayanadGarcia&theme=bear&show_icons=true&locale=pt-br" alt="DayanadGarcia" />
+  <br />
+  <br />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DayanadGarcia&theme=bear&locale=pt-br"/>
+</p>
