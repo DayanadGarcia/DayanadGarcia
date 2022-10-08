@@ -12,7 +12,7 @@
 
 - :telescope: I'm looking for knowledge to evolve in my developer career
 
-- 🗃 Current learning: Python and C#/.NET
+- 🗃 Current learning: Python and Ruby on Rails
 
 <br><br>
 
