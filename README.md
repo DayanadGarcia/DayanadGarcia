@@ -61,7 +61,7 @@
 </p>
 
 <br/>
---------
+
 <h3 align="center"> Estastísticas:</h3>
 <p align="center" width="500px">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DayanadGarcia&theme=bear&show_icons=true&locale=pt-br" alt="DayanadGarcia" />
