@@ -4,15 +4,15 @@
 
 <br />
 
-- 🌱 Software developer - Tryber
+- 🌱 Software developer at Humanoide.dev - Tryber T17
 
 - :books: I regularly post my achievements and learning on my linkedIn account [linkedin.com/in/dayanadias/](https://www.linkedin.com/in/dayanadias/)
 
-- 💬 Ask me about:  **Nodejs, Expressjs, MySql, Sequelize, MongoDB, TypeScript, Html, Css, Javascript**
+- 💬 Ask me about:  **Ruby on Rails, Nodejs, Expressjs, MySql, Sequelize, MongoDB, TypeScript, Html, Css, Javascript**
 
 - :telescope: I'm looking for knowledge to evolve in my developer career
 
-- 🗃 Current learning: Python and Ruby on Rails
+- 🗃 Current working and learning: Ruby on Rails
 
 <br><br>
 
