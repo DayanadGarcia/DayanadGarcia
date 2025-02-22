@@ -4,7 +4,7 @@
 
 <br />
 
-- 🌱 Software developer at Humanoide.dev - Tryber T17
+- 🌱 Backend software developer
 
 - :books: I regularly post my achievements and learning on my linkedIn account [linkedin.com/in/dayanadias/](https://www.linkedin.com/in/dayanadias/)
 
