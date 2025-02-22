@@ -52,9 +52,6 @@
 <h3 align="center">👩‍🦱 Social Links</h3>
 
 <p align="center" style="background:yellow">
-<a href="https://twitter.com/Daydiasgarcia" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-dayanadias-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
 <a href="https://www.linkedin.com/in/dayanadias/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-dayanadias-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
